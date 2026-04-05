@@ -11,7 +11,7 @@ features that influence quality scores.
 **Target variable:** `quality` (score 0–10)
 
 ## Project Structure
-
+```
 wine-quality-eda/
 │
 ├── data/
@@ -25,7 +25,7 @@ wine-quality-eda/
 │   └── eda.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 ## Key Findings
 
 This EDA explored the biochemical composition of 6,497 red and white Vinho Verde
